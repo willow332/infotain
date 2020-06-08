@@ -1,0 +1,25 @@
+package info;
+
+public class informationcovid {
+	public static void main(String[]orgs) {
+	System.out.println("Symptoms may appear 2-14 days after exposure to the virus. People with these symptoms may have COVID-19:\n" + 
+			"Fever or chills\n" + 
+			"Cough\n" + 
+			"Shortness of breath or difficulty breathing\n" + 
+			"Fatigue\n" + 
+			"Muscle or body aches\n" + 
+			"Headache\n" + 
+			"New loss of taste or smell\n" + 
+			"Sore throat\n" + 
+			"Congestion or runny nose\n" + 
+			"Nausea or vomiting\n" + 
+			"Diarrhea\n" + 
+			"Look for emergency warning signs for COVID-19. If someone is showing any of these signs, seek emergency medical care immediately:\n" + 
+			"Trouble breathing\n" + 
+			"Persistent pain or pressure in the chest\n" + 
+			"New confusion\n" + 
+			"Inability to wake or stay awake\n" + 
+			"Bluish lips or face\n" + 
+			"Call your medical provider for any other symptoms that are severe or concerning to you.");
+	}
+	}
